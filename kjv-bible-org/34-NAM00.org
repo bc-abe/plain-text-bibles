@@ -1,1 +1,6 @@
 #+TITLE: Nahum Table of Contents
+
+[[file:34-NAH01.org][Nahum 01]]
+[[file:34-NAH02.org][Nahum 02]]
+[[file:34-NAH03.org][Nahum 03]]
+[[file:34-NAH04.org][Nahum 04]]

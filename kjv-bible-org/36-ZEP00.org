@@ -1,1 +1,16 @@
 #+TITLE: Zephaniah Table of Contents
+
+[[file:36-ZEP01.org][Zephaniah 01]]
+[[file:36-ZEP02.org][Zephaniah 02]]
+[[file:36-ZEP03.org][Zephaniah 03]]
+[[file:36-ZEP04.org][Zephaniah 04]]
+[[file:36-ZEP05.org][Zephaniah 05]]
+[[file:36-ZEP06.org][Zephaniah 06]]
+[[file:36-ZEP07.org][Zephaniah 07]]
+[[file:36-ZEP08.org][Zephaniah 08]]
+[[file:36-ZEP09.org][Zephaniah 09]]
+[[file:36-ZEP10.org][Zephaniah 10]]
+[[file:36-ZEP11.org][Zephaniah 11]]
+[[file:36-ZEP12.org][Zephaniah 12]]
+[[file:36-ZEP13.org][Zephaniah 13]]
+[[file:36-ZEP14.org][Zephaniah 14]]

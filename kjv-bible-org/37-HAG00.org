@@ -1,1 +1,16 @@
 #+TITLE: Haggai Table of Contents
+
+[[file:37-HAG01.org][Haggai 01]]
+[[file:37-HAG02.org][Haggai 02]]
+[[file:37-HAG03.org][Haggai 03]]
+[[file:37-HAG04.org][Haggai 04]]
+[[file:37-HAG05.org][Haggai 05]]
+[[file:37-HAG06.org][Haggai 06]]
+[[file:37-HAG07.org][Haggai 07]]
+[[file:37-HAG08.org][Haggai 08]]
+[[file:37-HAG09.org][Haggai 09]]
+[[file:37-HAG10.org][Haggai 10]]
+[[file:37-HAG11.org][Haggai 11]]
+[[file:37-HAG12.org][Haggai 12]]
+[[file:37-HAG13.org][Haggai 13]]
+[[file:37-HAG14.org][Haggai 14]]

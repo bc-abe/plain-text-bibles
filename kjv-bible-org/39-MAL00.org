@@ -1,1 +1,16 @@
 #+TITLE: Malachi Table of Contents
+
+[[file:39-MAL01.org][Malachi 01]]
+[[file:39-MAL02.org][Malachi 02]]
+[[file:39-MAL03.org][Malachi 03]]
+[[file:39-MAL04.org][Malachi 04]]
+[[file:39-MAL05.org][Malachi 05]]
+[[file:39-MAL06.org][Malachi 06]]
+[[file:39-MAL07.org][Malachi 07]]
+[[file:39-MAL08.org][Malachi 08]]
+[[file:39-MAL09.org][Malachi 09]]
+[[file:39-MAL10.org][Malachi 10]]
+[[file:39-MAL11.org][Malachi 11]]
+[[file:39-MAL12.org][Malachi 12]]
+[[file:39-MAL13.org][Malachi 13]]
+[[file:39-MAL14.org][Malachi 14]]
