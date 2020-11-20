@@ -1,0 +1,6 @@
+#+TITLE: Ruth Table of Contents
+
+[[file:08-RUT01.org][Ruth 01]]
+[[file:08-RUT02.org][Ruth 02]]
+[[file:08-RUT03.org][Ruth 03]]
+[[file:08-RUT04.org][Ruth 04]]

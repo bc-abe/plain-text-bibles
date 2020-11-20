@@ -1,0 +1,2 @@
+#+TITLE: Obadiah Table of Contents
+[[file:31-OBA01.org][Obadiah 01]]

@@ -1,0 +1,6 @@
+#+TITLE: Jonah Table of Contents
+
+[[file:30-AMO01.org][Amos 01]]
+[[file:30-AMO02.org][Amos 02]]
+[[file:30-AMO03.org][Amos 03]]
+[[file:30-AMO04.org][Amos 04]]
