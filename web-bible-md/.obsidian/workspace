@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "07522d4d886c2f9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "db839289681be5b6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "12-2KI00.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d091d18b085602ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "31b8875500676fda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b742de4c37cedc08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "545e1524e3f81086",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33266c5f2ed325e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "27f7a118768bd0bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3093a47f15b3f70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "12-2KI00.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "12-2KI00.md",
+    "66-REV00.md",
+    "03-LEV00.md",
+    "02-EXO00.md",
+    "01-GEN00.md",
+    "04-NUM00.md",
+    "00-TOC.md"
+  ]
+}
