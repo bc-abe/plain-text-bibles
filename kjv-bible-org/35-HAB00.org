@@ -1,6 +1,0 @@
-#+TITLE: Habbakuk Table of Contents
-
-[[file:35-HAB01.org][Habbakuk 01]]
-[[file:35-HAB02.org][Habbakuk 02]]
-[[file:35-HAB03.org][Habbakuk 03]]
-[[file:35-HAB04.org][Habbakuk 04]]

@@ -1,6 +1,0 @@
-#+TITLE: Micah Table of Contents
-
-[[file:33-MIC01.org][Micah 01]]
-[[file:33-MIC02.org][Micah 02]]
-[[file:33-MIC03.org][Micah 03]]
-[[file:33-MIC04.org][Micah 04]]

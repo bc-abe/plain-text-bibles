@@ -1,6 +1,0 @@
-#+TITLE: Jonah Table of Contents
-
-[[file:32-JON01.org][Jonah 01]]
-[[file:32-JON02.org][Jonah 02]]
-[[file:32-JON03.org][Jonah 03]]
-[[file:32-JON04.org][Jonah 04]]
